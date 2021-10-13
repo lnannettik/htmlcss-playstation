@@ -1,0 +1,33 @@
+/* GENERAL RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+/* NAVBAR */
+
+.black_sony_line {
+    height: 30px;
+}
+
+.black_sony_line img {
+    height: 100%;
+
+}
+
+
+
+
+
+/* HERO */
+
+.prova {
+    background: lightblue;
+    /* height: 200px; */
+    padding-top: 110px;
+}
+
+
