@@ -7,6 +7,12 @@
 }
 
 
+/* UTILITIES */
+.arial {
+    font-family: arial;
+}
+
+
 /* NAVBAR */
 
     /* BLACK LINE */
@@ -24,7 +30,7 @@
 
     /* LIGHT LINE */
 #nav_bar {
-    height: 65px;
+    padding: 2px 0px;
     font-weight: 400;
 }
 
@@ -70,18 +76,34 @@
     /* padding: 10px; */
 }
 
-/* .hero .row img {
-    width: 70%;
-} */
-
-.row > * {
+.contenitore_hero .row > * {
     margin-top: 30px;
 }
 
+.contenitore_hero .row img {
+    max-width: 600px;
+}
+
+.hero_bg .hero .contenitore_hero .row #acquista {
+    background-color: #cd3d0f;
+    color: white;
+    width: min-content;
+    padding: 10px 20px;
+}
 
 
+/* SECTION B */
 
 .prova2 {
     height: 800px;
+}
+
+.sec_b img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.sec_b .img-cont {
+    border-radius: 1rem;
 }
 
