@@ -149,3 +149,43 @@
 .sec_e .container .row img {
     width: 100%;
 }
+
+
+/* SEZIONE F */
+
+.hero_bg {
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-position-x: center;
+    background-position-y: top;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 95px;
+    color: white;
+    display: flex;
+}
+
+
+/* SEZIONE G */
+
+.sec_g img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.sec_g {
+    background: black;
+}
+
+
+/* SEZIONE H */
+
+.sec_h img {
+    width: 100%;
+}
+
+
+
+
+
+
