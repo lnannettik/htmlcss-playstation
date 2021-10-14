@@ -141,6 +141,11 @@
     .sec_d .container .row .back {
         padding-top: 150px;
     }
-
 }
     
+
+/* SEZIONE E */
+
+.sec_e .container .row img {
+    width: 100%;
+}
