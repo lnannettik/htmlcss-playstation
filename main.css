@@ -107,7 +107,7 @@
 /* SECTION C */
 
 .big_title {
-    font-size: 3em;
+    font-size: 35px;;
 }
 
 .mt--10 {
@@ -123,4 +123,8 @@
 
 .sec_d .container .row .sopra {
     line-height: 4rem;
+}
+
+.sec_d .container .row .image #image {
+    width: 100%;
 }
