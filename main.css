@@ -54,10 +54,15 @@
 .prova {
     background-image: url(./img/jumbo-bg.png);
     background-position-x: center;
-    background-position-y: top;
+    background-position-y: bottom;
     padding-top: 110px;
     height: 800px;
     background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 95px;
 }
 
+.prova2 {
+    height: 800px;
+}
 
