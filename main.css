@@ -165,6 +165,15 @@
     display: flex;
 }
 
+.sec_f_bg .sec_f .contenitore_hero .row #acquista {
+    background-color: #cd3d0f;
+    color: white;
+    width: min-content;
+    padding: 10px 20px;
+}
+
+
+
 
 /* SEZIONE G */
 
@@ -261,7 +270,6 @@
 .sec_n img {
     width: 100%;
 }
-
 
 /* FOOTER */
 
