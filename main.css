@@ -150,6 +150,10 @@
     width: 100%;
 }
 
+.effect:hover {
+    border-bottom: #0d6efd 2px solid;
+}
+
 
 /* SEZIONE F */
 
