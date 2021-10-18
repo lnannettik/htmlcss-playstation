@@ -73,7 +73,6 @@
     display: flex;
     align-self: flex-end;
     margin-bottom: 80px;
-    /* padding: 10px; */
 }
 
 .contenitore_hero .row > * {
@@ -99,6 +98,13 @@
     border-radius: 1rem;
 }
 
+.sec_b img:hover {
+    border: 2px solid white;
+    outline-style: solid;
+    outline-color: #0d6efd;
+    outline-width: medium;
+}
+
 .sec_b .img-cont {
     border-radius: 1rem;
 }
@@ -107,7 +113,7 @@
 /* SECTION C */
 
 .big_title {
-    font-size: 35px;;
+    font-size: 35px;
 }
 
 .mt--10 {
@@ -161,7 +167,6 @@
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     background-position-x: center;
     background-position-y: top;
-    height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 95px;
@@ -176,6 +181,9 @@
     padding: 10px 20px;
 }
 
+.sec_f_bg .sec_f .contenitore_hero {
+    margin-bottom: 40px;
+}
 
 
 
@@ -196,6 +204,14 @@
 .sec_h img {
     width: 100%;
 }
+
+.title {
+    font-size: 30px;
+}
+
+
+
+
 
 
 /* SEZIONE I */
