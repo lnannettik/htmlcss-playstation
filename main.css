@@ -160,12 +160,23 @@
 
 /* SEZIONE E */
 
-.sec_e .container .row img {
-    width: 100%;
+.sec_e img {
+    border-radius: 1rem;
 }
 
-.effect:hover {
-    border-bottom: #0d6efd 2px solid;
+.immagine hr {
+    display: none;
+}
+
+.immagine:hover hr {
+    display: block;
+}
+
+.sec_e .container .row .immagine hr {
+    color: #0d6efd;
+    margin: 30px auto 0px;
+    width: 70%;
+    height: 2px;
 }
 
 
@@ -195,8 +206,6 @@
     outline-color: #cd3d0f;
     outline-width: medium;
 }
-
-
 
 .sec_f_bg .sec_f .contenitore_hero {
     margin-bottom: 40px;
