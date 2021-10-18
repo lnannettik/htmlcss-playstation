@@ -90,6 +90,14 @@
     padding: 10px 20px;
 }
 
+.hero_bg .hero .contenitore_hero .row #acquista:hover {
+    border: 2px solid;
+    outline-style: solid;
+    outline-color: #cd3d0f;
+    outline-width: medium;
+}
+
+
 
 /* SECTION B */
 
@@ -180,6 +188,15 @@
     width: min-content;
     padding: 10px 20px;
 }
+
+.sec_f_bg .sec_f .contenitore_hero .row #acquista:hover {
+    border: 2px solid;
+    outline-style: solid;
+    outline-color: #cd3d0f;
+    outline-width: medium;
+}
+
+
 
 .sec_f_bg .sec_f .contenitore_hero {
     margin-bottom: 40px;
